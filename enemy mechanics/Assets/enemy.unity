@@ -1171,11 +1171,11 @@ MonoBehaviour:
   _agent: {fileID: 0}
   target: {fileID: 1709774303}
   animator: {fileID: 0}
-  detectionRange: 0
-  waitTime: 1
+  detectionRange: 7
+  waitTime: 4
   patrolAreaCenter: {x: 0, y: 0, z: 0}
-  patrolAreaRadius: 0
-  attackRange: 0
+  patrolAreaRadius: 7
+  attackRange: 2.3
 --- !u!65 &1773649654
 BoxCollider:
   m_ObjectHideFlags: 0
